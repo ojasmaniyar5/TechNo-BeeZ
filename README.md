@@ -4,4 +4,4 @@
 Check out it.
 
 
-http://technobeez.great-site.net/
+technobeez.vercel.app
